@@ -10,7 +10,7 @@ def vetor():
     i = 0
     v = []
 
-    while(i <= 10):
+    while(i <= 9):
 
         n = random.randint(1, 100)
         
