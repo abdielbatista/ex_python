@@ -6,7 +6,6 @@ import random
 
 def vetor():
 
-    
     i = 0
     v = []
     contUm = 0
